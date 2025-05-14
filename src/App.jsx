@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from './components/Navbar'
-import Carousel from './components/carousel'
+import Carousel from './components/Carousel'
 import Compo1 from './components/Compo1'
 import Compo2 from './components/Compo2'
 import Compo3 from './components/Compo3'
