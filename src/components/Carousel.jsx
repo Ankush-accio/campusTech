@@ -3,7 +3,7 @@ import c1 from "../assets/c1.png";
 import c2 from "../assets/c2.png";
 import c3 from "../assets/c3.png";
 import c4 from "../assets/c4.png";
-import lineyellow from "../assets/lineyellow.png"
+import lineYellow from "../assets/lineYellow.png"
 
 const images = [c1, c2, c3, c4];
 
@@ -60,7 +60,7 @@ const Carousel = () => {
           />
         ))}
       </div>
-   <img className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg" src={lineyellow} alt="" />
+   <img className="w-full max-w-xs sm:max-w-sm md:max-w-md lg:max-w-lg" src={lineYellow} alt="" />
 
     </div>
   );
